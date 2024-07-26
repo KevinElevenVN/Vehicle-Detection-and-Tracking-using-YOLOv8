@@ -61,8 +61,8 @@ See YOLOv8 [Python Docs](https://docs.ultralytics.com/usage/python) for more exa
 
 </details>
 
-## Results
-The output will be a video file with detected and tracked vehicles highlighted. Each vehicle will have a unique ID for tracking across frames.
+## Demo
+<img src="assets/palace_demo.gif" width="600"/>
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
