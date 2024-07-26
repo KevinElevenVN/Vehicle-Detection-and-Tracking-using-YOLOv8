@@ -62,7 +62,7 @@ See YOLOv8 [Python Docs](https://docs.ultralytics.com/usage/python) for more exa
 </details>
 
 ## Demo
-<img src="assets/palace_demo.gif" width="600"/>
+<img src="assets/traffic.gif" width="600"/>
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
