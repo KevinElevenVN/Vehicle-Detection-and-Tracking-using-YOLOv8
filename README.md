@@ -2,10 +2,10 @@
 
 ## <div align='center'>Introduction</div>
 <div align='center'>
-    This project aims to develop a system for vehicle detection and tracking using the YOLOv8 object detection model and ByteTrack tracking algorithm. The system is designed to identify and track vehicles in real-time from video feeds, which can be utilized in various applications such as traffic monitoring, autonomous driving, and smart city initiatives.
+    This project aims to develop a system for vehicle detection and tracking using the YOLOv8 object detection model and ByteTrack tracking algorithm. The system is designed to identify and track vehicles in real-time from video feeds, which can be utilized in various applications such as traffic monitoring, autonomous driving, and smart city initiatives. 
 </div>
-
-![COCO_Result](https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/yolo-comparison-plots.png)
+<br>
+<img width="100%" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/yolo-comparison-plots.png" alt="YOLOv8 performance plots"></a>
 
 ## <div align='center'>Features</div>
 - Real-time vehicle detection using YOLOv8
