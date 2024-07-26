@@ -20,39 +20,16 @@ This project aims to develop a system for vehicle detection and tracking using t
 - Support for various video formats
 - Visualization of detection and tracking results
 
-## Requirements
-- Python 3.7+
-- CUDA-enabled GPU (for faster processing)
-- The following Python libraries:
-  - numpy
-  - opencv-python
-  - torch
-  - torchvision
-  - yolov8 (custom package or repository)
-  - bytetrack (custom package or repository)
-
 ## Installation
 1. Clone the repository:
     ```bash
     git clone https://github.com/KevinElevenVN/Vehicle-Detection-and-Tracking-using-YOLOv8.git
-    cd vehicle-detection-tracking
+    cd Vehicle-Detection-and-Tracking-using-YOLOv8
     ```
 
-2. Create a virtual environment and activate it:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate   # On Windows use `venv\Scripts\activate`
-    ```
-
-3. Install the required dependencies:
+2. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
-    ```
-
-4. Install YOLOv8 and ByteTrack packages:
-    ```bash
-    pip install yolov8
-    pip install bytetrack
     ```
 
 ## Usage
@@ -61,10 +38,6 @@ This project aims to develop a system for vehicle detection and tracking using t
     ```bash
     python detect_and_track.py --input path_to_video.mp4 --output path_to_output.mp4
     ```
-
-### Script Options
-- `--input`: Path to the input video file or camera feed.
-- `--output`: Path to save the output video with detection and tracking annotations.
 
 ## Results
 The output will be a video file with detected and tracked vehicles highlighted. Each vehicle will have a unique ID for tracking across frames.
