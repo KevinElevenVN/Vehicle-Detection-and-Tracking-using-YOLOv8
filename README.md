@@ -34,7 +34,7 @@ This project aims to develop a system for vehicle detection and tracking using t
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/vehicle-detection-tracking.git](https://github.com/KevinElevenVN/Vehicle-Detection-and-Tracking-using-YOLOv8.git)
+    git clone (https://github.com/KevinElevenVN/Vehicle-Detection-and-Tracking-using-YOLOv8.git)
     cd vehicle-detection-tracking
     ```
 
