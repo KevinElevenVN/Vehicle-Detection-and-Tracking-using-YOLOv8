@@ -1,6 +1,7 @@
 # TODO: Update with exact module version
 ultralytics
 numpy
+matplotlib
 torch>=1.7
 opencv_python
 cvzone
