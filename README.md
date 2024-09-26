@@ -64,6 +64,9 @@ See YOLOv8 [Python Docs](https://docs.ultralytics.com/usage/python) for more exa
 ## Demo
 <img src="assets/traffic.gif" width="600"/>
 
+## Disclaimer
+This project was developed only for a graduation project. 
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
